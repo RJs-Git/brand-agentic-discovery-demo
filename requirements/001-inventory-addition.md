@@ -1,5 +1,7 @@
 # Stage 1: Inventory Addition (New Offerings Added to Catalog)
 
+*   **Status:** :red_circle: Backlog
+
 **User Story:** *As an internal product manager,* I want to **add a new product offering** (e.g. a hotel amenity or an airline service) to our travel catalog via an internal tool, **so that** the new feature is recorded in the system and becomes available for AI-agent discovery. (In the demo, the two scenarios are adding a **“Kids’ Club”** amenity to a hotel and a **“Ride App Pickup”** service to a flight route.), 
 
 ## Functional Requirements:
