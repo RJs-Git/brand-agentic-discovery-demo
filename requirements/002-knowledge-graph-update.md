@@ -1,5 +1,7 @@
 # Stage 2: Knowledge Graph Update (Real-time Graph Sync & Verification)
 
+**Status:** :red_circle: Backlog
+
 **User Story:** Once a new offering is added, the system’s **knowledge graph is immediately updated** with that item and its relationships. We need to **confirm** that the Neptune graph now contains the new node linked to the correct product, **so that** any service querying the graph (search, recommendations, etc.) can see the new offering in real-time. 
 
 ## Functional Requirements:
