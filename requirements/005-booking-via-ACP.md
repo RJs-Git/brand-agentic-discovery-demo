@@ -1,5 +1,7 @@
 # Stage 5: Booking via Agentic Commerce Protocol (Seamless Transaction Completion)
 
+**Status:** :red_circle: Backlog
+
 **User Story:** As a customer, when I decide on a travel option, I want to **book it through the AI assistant** without switching apps or entering details again, **so that** the purchase is frictionless and handled within our conversation. (The system should process the booking via the Agentic Commerce Protocol, confirming the reservation of the selected hotel or flight.) 
 
 ## Functional Requirements:
