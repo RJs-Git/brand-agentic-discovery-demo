@@ -1,5 +1,7 @@
 # Stage 3: Intent Catalog Update (Mapping New Offering to Traveler Intents)
 
+**Status:** :red_circle: Backlog
+
 **User Story:** When a new product feature is added, the system should **automatically map it to relevant traveler intents** or use-cases. I want the platform to update its **Intent Catalog** (the mapping of customer intents to available offerings) to include the new item, **so that** if a customer searches by that intent, the new offering will be among the results. , 
 
 ## Functional Requirements:
