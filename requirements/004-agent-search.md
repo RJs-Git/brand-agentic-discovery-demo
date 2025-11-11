@@ -1,5 +1,7 @@
 # Stage 4: Agent Search (AI Agent Queries & Results Delivery)
 
+**Status:** :red_circle: Backlog
+
 **User Story:** As a customer using the AI travel assistant, I want to **search for travel options by describing my needs** (e.g. “a family-friendly hotel in Hawaii” or “a flight with easy ground transport”), and have the AI agent fetch results that include the brand’s **latest offerings**, **so that** I discover the new amenity/service we added if it matches my intent. , 
 
 *(This stage enables Claude, the AI agent, to query the backend. It covers building the search API and integrating it with the AI assistant interface. The result will be the agent presenting the user with options that highlight the new Kids’ Club or Ride App Pickup feature.)*
